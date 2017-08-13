@@ -1,0 +1,22 @@
+Agenda:
+Welkom
+Diner
+BICS4CX
+BICS – demo
+BICS – taken
+Verdeling
+Volgende Sessie
+
+Wat willen we met BICS? Wat wil oracle.
+
+Wat is de BICS4CX oplossing? Een selfservice tool dat een template geeft voor generiek gebruik. 
+
+Wat is CX? ---> zit in alle cntactmonenten in verschillende systemen.
+
+--> hoe maken we dat generiek? -> purchase journey
+
+--> gebruik customer journey (klantpaden) om als model hierop.
+
+Data sync gebruiken voor data uploads.
+
+
